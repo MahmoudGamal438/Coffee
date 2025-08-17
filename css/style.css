@@ -408,7 +408,7 @@ form button {
 /* Responsive for tablets (≤ 1024px) */
 @media (max-width: 1024px) {
     .navbar {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 2fr .5fr;
         padding: 20px;
         gap: 10px;
     }
@@ -547,6 +547,7 @@ form button {
     }
 
 }
+
 
 
 
