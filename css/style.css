@@ -488,11 +488,11 @@ form button {
     .Tea-by-Song-Tea {
         grid-template-columns: 1fr;
     }
-/*     img{
+    img{
         width:100%;
-    } */
-   .container1-location , .contact-form , img{
-       width:90%;
+    }
+   .container1-location , .contact-form {
+       width:70%;
    }
     footer {
         grid-template-columns: 1fr;
@@ -541,6 +541,7 @@ form button {
     }
 
 }
+
 
 
 
