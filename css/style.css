@@ -491,7 +491,9 @@ form button {
     img{
         width:100%;
     }
-
+   .container1 , .contact-form{
+       width:100%;
+   }
     footer {
         grid-template-columns: 1fr;
         text-align: center;
@@ -539,6 +541,7 @@ form button {
     }
 
 }
+
 
 
 
