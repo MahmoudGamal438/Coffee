@@ -499,6 +499,9 @@ form button {
          display:grid;
          grid-template-columns:1fr;
      }
+    form label , form input{
+        margin:0;
+        padding:0;
     footer {
         grid-template-columns: 1fr;
         text-align: center;
@@ -546,6 +549,7 @@ form button {
     }
 
 }
+
 
 
 
