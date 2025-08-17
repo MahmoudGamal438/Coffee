@@ -495,7 +495,8 @@ form button {
        width:80%;
    }
      .contact-form form{
-         display:grid:
+         width:80%;
+         display:grid;
          grid-template-columns:1fr;
      }
     footer {
@@ -545,6 +546,7 @@ form button {
     }
 
 }
+
 
 
 
