@@ -496,8 +496,7 @@ form button {
    }
      .contact-form form{
          width:80%;
-         display:grid;
-         grid-template-columns:1fr;
+         background:red;
      }
     form label , form input{
         margin:0;
@@ -549,6 +548,7 @@ form button {
     }
 
 }
+
 
 
 
