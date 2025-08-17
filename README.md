@@ -33,4 +33,4 @@ Coffee-shop/
 └── images/ # Images & assets
 
 ## 🌍 Live Demo
-👉 [Coffee Shop Website](https://MahmoudGamal438.github.io/Coffee-shop/)
+👉 [Coffee Shop Website](https://mahmoudgamal438.github.io/Coffee/)
