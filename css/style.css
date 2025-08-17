@@ -414,8 +414,8 @@ form button {
     }
 
     .navbar .nav-links {
-        grid-template-columns: repeat(5, auto);
-        gap: 5px;
+        grid-template-columns: 1fr 1fr 1fr .6fr .8fr;
+        gap: 2px;
     }
 
     .service-container,
@@ -547,6 +547,7 @@ form button {
     }
 
 }
+
 
 
 
