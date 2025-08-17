@@ -49,7 +49,7 @@ body {
 .navbar .nav-links {
     list-style: none;
     display: grid;
-    grid-template-columns: 2.4fr 2fr 2fr .8fr 1fr;
+    grid-template-columns: 2fr 2fr 2fr .8fr 1fr;
     gap: 10px;
     justify-items: center;
 }
@@ -536,6 +536,7 @@ form button {
     }
 
 }
+
 
 
 
