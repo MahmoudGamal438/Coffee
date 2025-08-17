@@ -29,7 +29,7 @@ body {
     background-color: var(--secondary-color);
     padding: 20px 40px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1.5fr 0.5fr;
+    grid-template-columns: 1fr 1fr 1.8fr 0.5fr;
     align-items: center;
     box-shadow: var(--box-shadow);
     position: sticky;
@@ -49,7 +49,7 @@ body {
 .navbar .nav-links {
     list-style: none;
     display: grid;
-    grid-template-columns: 1.4fr 1.4fr 1.6fr .8fr 1fr;
+    grid-template-columns: 1.6fr 1.6fr 1.6fr .8fr 1fr;
     gap: 10px;
     justify-items: center;
 }
@@ -536,5 +536,6 @@ form button {
     }
 
 }
+
 
 
